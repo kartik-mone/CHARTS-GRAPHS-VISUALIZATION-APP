@@ -1,0 +1,12 @@
+Learner_Id,LearnerFirstName,LearnerLastName,LearnerPhoneNo,LearnerEmailID,LearnerEnrollmentDate,SelectedCourses,YearsOfExperience,LearnerCompany,SourceOfJoining,Batch_Start_Date,Location
+1,John,Doe,9876543210,john.doe@example.com,10-01-2024 00:00,1,2,Tech Corp,LinkedIn,29-02-2024 00:00,New York
+2,Jane,Smith,9123456789,jane.smith2@example.com,15-01-2024 00:00,2,1,InnoTech,Website,16-01-2024 00:00,San Francisco
+3,Jane,Smith,9123456789,jane.smith@example.com,15-01-2024 00:00,2,1,InnoTech,Website,16-01-2024 00:00,San Francisco
+4,Alice,Brown,9234567890,alice.brown@example.com,20-02-2024 00:00,3,1,Amazon,Referral,25-03-2024 00:00,Los Angeles
+5,Bob,White,9345678901,bob.white@example.com,01-02-2024 00:00,2,5,Startup Inc.,LinkedIn,29-02-2024 00:00,Seattle
+6,Charlie,Green,9456789012,charlie.green@example.com,12-01-2024 00:00,1,0,New Age Solutions,Social Media,16-01-2024 00:00,Chicago
+7,Diana,Black,9567890123,diana.black@example.com,18-02-2024 00:00,3,4,Tech Horizon,Website,25-03-2024 00:00,Boston
+8,Eve,Taylor,9678901234,eve.taylor@example.com,25-01-2024 00:00,2,2,Creative Labs,Referral,29-02-2024 00:00,Austin
+9,Frank,Adams,9789012345,frank.adams@example.com,08-01-2024 00:00,1,6,Legacy Systems,LinkedIn,16-01-2024 00:00,Houston
+10,Grace,Hall,9890123456,grace.hall@example.com,01-03-2024 00:00,3,1,Future Tech,Website,25-03-2024 00:00,Denver
+11,Henry,King,9901234567,henry.king@example.com,10-02-2024 00:00,1,2,Digital Innovators,Social Media,29-02-2024 00:00,Atlanta
